@@ -1,6 +1,4 @@
-import java.lang.invoke.StringConcatException;
 
-import javax.print.DocFlavor.STRING;
 
 public class MinhaClasse {
 
